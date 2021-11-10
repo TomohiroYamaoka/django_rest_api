@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'apiv1.apps.Api1Config',
+    'apiv1.apps.Apiv1Config',
     'shop.apps.ShopConfig',
 ]
 
